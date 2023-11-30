@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+@import url('https://fonts.cdnfonts.com/css/mona-sans');
+
+                
+
 *{
   margin: 0;
   padding: 0;
@@ -37,7 +41,9 @@ body{
   display: flex;
   justify-content: center;
   padding: 4rem 4rem 0 4rem;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Mona-Sans', sans-serif;
+
+
  
 }
 
@@ -132,7 +138,7 @@ input{
   background-color: var(--background-color-two);
   width: 100%;
   text-align: start;
-  font-size: 25px;
+  font-size: 24px;
   padding: 2rem 4rem 2rem 4rem ;
   font-weight: 400;
   margin-top: 2rem;
